@@ -77,5 +77,6 @@
 
 <!-- ========== Simple Python Example ========== -->
 <h2>🐍 Simple Python Example</h2>
-<pre><code>Inheritance1.py</code></pre>
+
+
 
