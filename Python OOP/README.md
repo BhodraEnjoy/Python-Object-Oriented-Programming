@@ -128,12 +128,10 @@ Before reading this file, you should know:
 <h2>▶️ How to Use This File</h2>
 
 <ol>
-  <li>Open <code>python_oop.py</code></li>
+  
   <li>Read the code section by section</li>
   <li>Run the file using:</li>
 </ol>
-
-<pre><code>python python_oop.py</code></pre>
 
 <p>
 <strong>Tip:</strong> Modify the code and observe the output to learn faster.
@@ -190,4 +188,5 @@ You are free to:
 © 2026 <strong>Enjoy Bhodra</strong><br>
 Python OOP – Student Learning Notes
 </p>
+
 
