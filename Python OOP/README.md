@@ -18,11 +18,6 @@
 
 <h2>📘 About This File</h2>
 
-<p>
-This repository contains a single Python file named:
-</p>
-
-<pre><code>python_oop.py</code></pre>
 
 <p>
 The purpose of this file is to help <strong>students understand Python OOP concepts</strong>
@@ -195,3 +190,4 @@ You are free to:
 © 2026 <strong>Enjoy Bhodra</strong><br>
 Python OOP – Student Learning Notes
 </p>
+
